@@ -1,0 +1,99 @@
+.x-action-col-cell img.hide{
+	display:none;
+}
+
+.icon-search { background-image: url( "../img/icon/search.png" ) !important;}
+
+.icon-clear { background-image: url( "../img/icon/recycle.gif" ) !important;}
+
+.icon-info { background-image: url( "../img/icon/information.png" ) !important;}
+
+.icon-question { background-image: url( "../img/icon/question.gif" ) !important;}
+
+.icon-help { background-image: url( "../img/icon/help.gif" ) !important;}
+
+.icon-save { background-image: url("../img/icon/save.gif") !important;}
+
+.icon-add { background-image: url("../img/icon/add.gif") !important;}
+
+.icon-edit { background-image: url("../img/icon/edit.png") !important;}
+
+.x-action-col-cell img.icon-edit {	background-image: url("../img/icon/edit.png");}
+
+.icon-copy { background-image: url("../img/icon/copy.png") !important; }
+
+.icon-delete { background-image: url("../img/icon/delete.gif") !important; }
+
+.x-action-col-cell img.icon-delete {	background-image: url("../img/icon/delete.gif");}
+
+.icon-email { background-image: url("../img/icon/email.png") !important; }
+
+.x-action-col-cell img.icon-email {	background-image: url("../img/icon/email.png");}
+
+.icon-refresh { background-image: url("../img/icon/refresh.gif") !important; }
+
+.icon-yes { background-image: url("../img/icon/drop-yes.gif") !important; }
+
+.x-action-col-cell img.icon-yes {	background-image: url("../img/icon/drop-yes.gif");}
+
+.icon-add-record { background-image: url("../img/icon/add_record.png") !important; }
+
+.icon-tabs { background-image: url("../img/icon/tabs.gif") !important; }
+
+.icon-view-left { background-image: url("../img/icon/view-left.gif") !important; }
+
+.icon-view-right { background-image: url("../img/icon/view-right.gif") !important; }
+
+.icon-view-hide { background-image: url("../img/icon/view-hide.gif") !important; }
+
+.icon-arrow-up { background-image: url("../img/icon/arrow-up.gif") !important; }
+.x-action-col-cell img.icon-arrow-up  { background-image: url("../img/icon/arrow-up.gif"); }
+
+.icon-arrow-down { background-image: url("../img/icon/arrow-down.gif") !important; }
+.x-action-col-cell img.icon-arrow-down  { background-image: url("../img/icon/arrow-down.gif"); }
+
+.icon-system { background-image: url("../img/icon/cog.png") !important;  }
+.x-action-col-cell img.icon-system  { background-image: url("../img/icon/cog.png"); }
+
+.icon-list { background-image: url("../img/icon/application_view_list.png") !important;  }
+
+.icon-chart { background-image: url("../img/icon/chart.gif") !important;  }
+
+.icon-grid { background-image: url("../img/icon/grid.png") !important;  }
+.x-action-col-cell img.icon-grid  { background-image: url("../img/icon/grid.png"); }
+
+.icon-calendar {background-image: url("../img/icon/calendar.gif") !important; }
+
+.icon-export { background-image: url("../img/icon/application_go.png") !important; }
+.x-action-col-cell img.icon-export {	background-image: url("../img/icon/application_go.png");}
+
+.icon-expand { background-image: url("../img/icon/expand-all.gif") !important;  }
+.icon-collapse { background-image: url("../img/icon/collapse-all.gif") !important; }
+
+.icon-album { background-image: url("../img/icon/album.gif") !important;  }
+
+.icon-language { background-image: url("../img/icon/post.gif") !important; }
+.x-action-col-cell img.icon-comment {	background-image: url("../img/icon/post.gif");}
+
+.icon-view { background-image: url("../img/icon/view.gif") !important; }
+.x-action-col-cell img.icon-view {	background-image: url("../img/icon/view.gif");}
+
+.icon-no { background-image: url("../img/icon/drop-no.gif") !important; }
+
+.icon-pass { background-image: url("../img/icon/application_go.png") !important; }
+
+.icon-user-red { background-image: url("../img/icon/user_red.png") !important; }
+.icon-user-suit { background-image: url("../img/icon/user_suit.gif") !important; }
+
+.icon-eye { background-image: url("../img/icon/eye.png") !important; }
+
+.x-action-col-cell img {
+	height: 16px;
+	width: 16px;
+	cursor: pointer;
+	margin-right: 10px;
+}
+
+.sy-hide{
+	visibility: hidden;
+}
